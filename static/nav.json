@@ -70,6 +70,16 @@
 		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
+	"_id": "ruanjian2",
+	"classify": "软件社区2",
+	"icon": "ti-download",
+	"sites": [{
+	        "name": "百度",
+		"href": "https://www.baidu.com/",
+		"desc": "百度一下",
+		"logo": "https://www.baidu.com/favicon.ico"
+	}]
+}, {
 	"_id": "yunpan",
 	"classify": "云盘储存",
 	"icon": "ti-cloud",
