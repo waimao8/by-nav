@@ -81,8 +81,8 @@
 		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
-	"_id": "ruanjian2",
-	"classify": "软件社区2",
+	"_id": "ruanjian3",
+	"classify": "软件社区3",
 	"icon": "ti-download",
 	"sites": [{
 	        "name": "百度",
