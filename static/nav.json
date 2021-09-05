@@ -1,5 +1,5 @@
 [{
-	"_id": "常用",
+	"_id": "changyong",
 	"classify": "常用网址",
 	"icon": "ti-download",
 	"sites": [{
@@ -64,7 +64,7 @@
 		"logo": "static/icons/photopea.com.png"
 	}]
 	"_id": "ruanjian",
-	"classify": "软件·社区",
+	"classify": "软件社区",
 	"icon": "ti-download",
 	"sites": [{
 		"name": "52破解",
