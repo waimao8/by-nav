@@ -2,7 +2,7 @@
 		
 	"_id": "changyong",
 	"classify": "常用网址",
-	"icon": "ti-download",
+	"icon": "ti-medall-alt",
 	"sites": [{
 	        "name": "百度",
 		"href": "https://www.baidu.com/",
