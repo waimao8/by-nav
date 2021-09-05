@@ -17,7 +17,7 @@
 		"name": "google",
 		"href": "https://www.google.com/",
 		"desc": "谷歌搜索",
-		"logo": "static/icons/52pojie.cn.ico"
+		"logo": "https://api.clowntool.cn/getico/?url=www.google.com"
 		}, {
 		"name": "360搜索",
 		"href": "https://www.so.com/",
