@@ -1,16 +1,5 @@
 [{
-	
-	"_id": "ruanjian",
-	"classify": "常用网址",
-	"icon": "ti-download",
-	"sites": [{
-		"name": "百度",
-		"href": "https://www.baidu.com/",
-		"desc": "百度一下",
-		"logo": "https://www.baidu.com/favicon.ico"
-        }]
-},  { 
-	
+		
 	"_id": "ruanjian",
 	"classify": "软件社区",
 	"icon": "ti-download",
