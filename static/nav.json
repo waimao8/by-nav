@@ -8,6 +8,21 @@
 		"href": "https://www.baidu.com/",
 		"desc": "百度一下",
 		"logo": "https://www.baidu.com/favicon.ico"
+		}, {
+		"name": "bing",
+		"href": "https://cn.bing.com/",
+		"desc": "微软搜索",
+		"logo": "https://api.clowntool.cn/getico/?url=www.bing.com"
+		}, {
+		"name": "google",
+		"href": "https://www.google.com/",
+		"desc": "谷歌搜索",
+		"logo": "static/icons/52pojie.cn.ico"
+		}, {
+		"name": "360搜索",
+		"href": "https://www.so.com/",
+		"desc": "360搜索",
+		"logo": "https://www.so.com/favicon.ico"
 	}]
 }, {
 	
